@@ -1,94 +1,100 @@
-### Hi There 👋,
-- - - - 
-- My name is Mitchell LaBauve.
-- I am a fullstack software engineer.
+# Mitchell LaBauve
 
-<br>
+### Software Engineer | Backend • Platform • Security
 
+Hi, I'm Mitchell 👋
 
+I'm a software engineer with experience building enterprise software across backend services, security products, web applications, authentication systems, and cloud infrastructure.
 
-### 📖 My Story:
-- - - - 
-- Surprised to hear that I worked as an Emergency Medical Technician (EMT-B) on an ambulance for 2.5 years?
-- Well, I mention that part of my life because it enabled me to develop deep communication skills that have been very helpful in my software engineering roles.
-- My current software engineering role is to help build an Enterprise level Saas that large data centers use to get traffic to their tools. 
-- I really enjoy working with people and I have an unshakeable passion for writing code and solving problems.
-- Check out some of my personal projects below...
+My work has included **Go, TypeScript, Angular, React, C++, Python, REST APIs, Docker, AWS, SQL, authentication and authorization, networking, and cybersecurity tooling**.
 
+I enjoy solving difficult engineering problems, understanding how systems work end-to-end, and building software that is reliable, maintainable, and useful.
 
-<br>
-<br>
+## 🛠 What I Work With
 
+**Backend & APIs**
+Go • Node.js • Python • C++ • REST APIs • WebSockets • SQL
 
-### ⏰ My Favorite:
-- - - - 
-I prototyped & programmed a robotic lawn mower using:
-<br>
+**Frontend**
+Angular • TypeScript • React • RxJS • Redux • HTML • SCSS
 
-Software        |         |Hardware                              |
--------------   |---------|-------------                         |
-Python          |         |21" push mower                        |
-OpenCV          |         |Wheelchair Motors                |
-Neural Networks |         |GLONASS                               |
-Stereo Vision   |         |Dual Motor Driver                     |
-Linux           |         |NVidia Jetson Nano ( for the edge GPU)|
-Git             |         |
-Object Oriented Programming | | |
+**Infrastructure & Cloud**
+Docker • Linux • AWS • GitHub Actions • CI/CD • NGINX
 
- <br>
- <br>
- 
- 1. First, I built the from-scratch prototype to be remote controlled (I get funny looks from my neighbors when mowing my lawn from a chair on my porch). 
- 2. Then, I programmed the automated navigation with Python, serial ports and GLONASS (although the custom PID control really put a damper on the project).
- 3. Next, I could add obstacle avoidance using binocular vision and OpenCV (I would synthesize a cutting edge technique only found in reasearch papers - called the Manduchi Algorithm.. or so I think I could!).
- 
- <br>
- <br>
- 
-### 🛠️ More Projects We Should Discuss
-- - - - 
-   - __Microgreens Farming Innovation, and Accompanying E-Commerce Website__ to order/subscribe to microgreen orders grown with my automoated process. (full-stack website and 3D printed materials) 
-   - __API Quant Trader__ using the TD Ameritrade API (algorithmic trading before TD Ameritrade became Charles Schwab)
-   - __UI Wireframe Mockup__ for a health company idea (ui developer/designer)
-   - __GoLang Encryption Tool__ to encrypt/decrypt files from the command line 
+**Security**
+JWT • OAuth2 • MFA • PKI • Authentication & Authorization • Network Security • Suricata • Zeek • Arkime • OpenSearch
 
-        
-<br>
-<br>
+## 🔐 Security & Enterprise Software
 
-### 🏃 Where I'm Going... 
-- - - - 
-   - I have found that I work best in start ups and small companies. However, I am open to discussing any opportunity.
+Much of my recent work has been on enterprise network-security products.
 
+I've built and contributed to systems involving:
 
-<!--
-### Ask Me About
-        * 
+* Authentication, authorization, JWT, OAuth2, and MFA
+* Go-based backend APIs and services
+* Angular applications for security analysts and administrators
+* Network traffic investigation and PCAP workflows
+* Suricata, Zeek, Arkime, and OpenSearch integrations
+* Licensing, certificate management, and security configuration
+* Dockerized services and CI/CD pipelines
+* High-volume network and security data workflows
 
-### Professional Experience
-I have a year of front end developer experience in a startup environment using
-        * JavaScript, 
-        * AWS, 
-        * ReactJS, 
-        * Docker, 
-        * Git,  
-        * HTML,
-        * CSS
+I enjoy working across the stack, but I'm especially interested in **backend engineering, platform engineering, security engineering, and distributed systems**.
 
-I am certified in full stack development 
-I am also certified in machine learning - because data/AI is our future.
+## 🤖 Favorite Personal Project: Autonomous Lawn Mower
 
+One of my favorite projects started with a simple question:
 
-**mitty4/mitty4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Could I build an autonomous lawn mower myself?**
 
-Here are some ideas to get you started:
+I started by converting a 21-inch push mower into a remotely controlled robotic platform using wheelchair motors and a motor controller.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From there, I began developing autonomous navigation using:
+
+* Python
+* Linux
+* NVIDIA Jetson Nano
+* GPS / GNSS
+* Serial communication
+* PID control
+* OpenCV
+* Stereo vision
+* Computer vision and obstacle detection
+
+The project combined software, electronics, robotics, mechanical design, and computer vision—which is exactly the kind of multidisciplinary problem solving I enjoy.
+
+## 🚀 Other Projects
+
+### Algorithmic Trading System
+
+Built an automated trading application using the TD Ameritrade API to retrieve market data and programmatically execute trading strategies.
+
+### Go Encryption CLI
+
+Built a command-line utility in Go for encrypting and decrypting files.
+
+### Full-Stack Developer Platform
+
+Built applications using Go, React, AWS, Docker, and GitHub Actions while exploring deployment automation and cloud-native development.
+
+### Security Research Lab
+
+Built and experimented with security environments involving vulnerability scanning, network analysis, penetration-testing tools, and intentionally vulnerable applications.
+
+## 👋 A Little About Me
+
+Before becoming a software engineer, I worked as an EMT on an ambulance.
+
+That experience taught me how to communicate clearly, troubleshoot under pressure, work closely with a team, and stay focused when the situation is ambiguous.
+
+Those skills have carried directly into engineering.
+
+I enjoy working with people, learning complex systems, writing code, and turning difficult technical problems into practical solutions.
+
+## 🎯 What I'm Interested In
+
+I'm especially interested in opportunities involving:
+
+**Backend Engineering • Platform Engineering • Cybersecurity • Distributed Systems • Go • Cloud Infrastructure • Developer Tools**
+
+I'm particularly drawn to engineering teams where developers have meaningful ownership over the systems they build.
