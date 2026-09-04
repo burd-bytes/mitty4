@@ -1,45 +1,67 @@
 # Mitchell LaBauve
 
-### Software Engineer | Backend • Platform • Security
+### Security Engineer | Software Engineer | Application • Product • Network Security
 
 Hi, I'm Mitchell 👋
 
-I'm a software engineer with experience building enterprise software across backend services, security products, web applications, authentication systems, and cloud infrastructure.
+I build software, break assumptions, and like understanding how systems actually behave.
 
-My work has included **Go, TypeScript, Angular, React, C++, Python, REST APIs, Docker, AWS, SQL, authentication and authorization, networking, and cybersecurity tooling**.
+I'm a security-focused software engineer with experience building and hardening enterprise networking and cybersecurity products.
 
-I enjoy solving difficult engineering problems, understanding how systems work end-to-end, and building software that is reliable, maintainable, and useful.
+My work has included application security, authentication and authorization, intrusion detection, network traffic analysis, secure APIs, vulnerability remediation, CI/CD security, and cloud infrastructure.
+
+I work primarily with **Go, TypeScript, Python, C++, Docker, AWS, Linux, Suricata, Zeek, Arkime, OpenSearch, JWT, OAuth2, MFA, TLS/PKI, and REST APIs**.
 
 ## 🛠 What I Work With
 
-**Backend & APIs**
-Go • Node.js • Python • C++ • REST APIs • WebSockets • SQL
+**Security Engineering**  
+Application Security • Product Security • Authentication & Authorization • JWT • OAuth2 • MFA • TLS/PKI • Vulnerability Remediation • Secure SDLC
 
-**Frontend**
-Angular • TypeScript • React • RxJS • Redux • HTML • SCSS
+**Detection & Network Security**  
+Suricata • Zeek • Arkime • OpenSearch • PCAP Analysis • Network Traffic Analysis • IDS • TCP/IP • DNS • HTTP/HTTPS
 
-**Infrastructure & Cloud**
-Docker • Linux • AWS • GitHub Actions • CI/CD • NGINX
+**Backend & Security Development**  
+Go • Python • Node.js • C++ • REST APIs • WebSockets • SQL
 
-**Security**
-JWT • OAuth2 • MFA • PKI • Authentication & Authorization • Network Security • Suricata • Zeek • Arkime • OpenSearch
+**Cloud & DevSecOps**  
+AWS • Docker • Linux • GitHub Actions • CI/CD • Trivy • Terraform • Secrets Management
 
-## 🔐 Security & Enterprise Software
+**Frontend**  
+Angular • TypeScript • React • RxJS • Redux
 
-Much of my recent work has been on enterprise network-security products.
+## 🔐 Security Engineering
 
-I've built and contributed to systems involving:
+Much of my recent work has focused on enterprise security and networking products.
 
-* Authentication, authorization, JWT, OAuth2, and MFA
-* Go-based backend APIs and services
-* Angular applications for security analysts and administrators
-* Network traffic investigation and PCAP workflows
-* Suricata, Zeek, Arkime, and OpenSearch integrations
-* Licensing, certificate management, and security configuration
-* Dockerized services and CI/CD pipelines
-* High-volume network and security data workflows
+I've worked on systems involving:
 
-I enjoy working across the stack, but I'm especially interested in **backend engineering, platform engineering, security engineering, and distributed systems**.
+- Intrusion detection and network traffic analysis
+- Suricata, Zeek, Arkime, and OpenSearch integrations
+- JWT authentication and authorization
+- Enterprise MFA and account recovery workflows
+- SSL/TLS certificate and PKI management
+- CSP hardening and XSS mitigation
+- Security APIs written in Go
+- PCAP and session investigation workflows
+- Vulnerability remediation
+- Dockerized services and secure CI/CD pipelines
+
+I enjoy working where software engineering and cybersecurity overlap.
+
+## 🧪 Security Lab
+
+I'm building an enterprise-style cybersecurity lab to deepen my hands-on experience across:
+
+- Network segmentation
+- Suricata and Zeek
+- Wazuh / Security Onion
+- Sysmon and Sigma
+- AppSec testing
+- Authentication and authorization flaws
+- Vulnerability remediation
+- AWS IAM and cloud security
+- Detection engineering
+- Incident investigation
 
 ## 🤖 Favorite Personal Project: Autonomous Lawn Mower
 
@@ -47,54 +69,44 @@ One of my favorite projects started with a simple question:
 
 **Could I build an autonomous lawn mower myself?**
 
-I started by converting a 21-inch push mower into a remotely controlled robotic platform using wheelchair motors and a motor controller.
+I converted a 21-inch push mower into a remotely controlled robotic platform and began building autonomous navigation using:
 
-From there, I began developing autonomous navigation using:
+- Python
+- Linux
+- NVIDIA Jetson Nano
+- GPS / GNSS
+- Serial communication
+- PID control
+- OpenCV
+- Stereo vision
+- Computer vision and obstacle detection
 
-* Python
-* Linux
-* NVIDIA Jetson Nano
-* GPS / GNSS
-* Serial communication
-* PID control
-* OpenCV
-* Stereo vision
-* Computer vision and obstacle detection
-
-The project combined software, electronics, robotics, mechanical design, and computer vision—which is exactly the kind of multidisciplinary problem solving I enjoy.
+The project combined software, electronics, robotics, and mechanical design, which is exactly the kind of problem solving I enjoy.
 
 ## 🚀 Other Projects
-
-### Algorithmic Trading System
-
-Built an automated trading application using the TD Ameritrade API to retrieve market data and programmatically execute trading strategies.
 
 ### Go Encryption CLI
 
 Built a command-line utility in Go for encrypting and decrypting files.
 
+### Algorithmic Trading System
+
+Built an automated trading application using market data APIs and programmatic trading strategies.
+
 ### Full-Stack Developer Platform
 
 Built applications using Go, React, AWS, Docker, and GitHub Actions while exploring deployment automation and cloud-native development.
 
-### Security Research Lab
-
-Built and experimented with security environments involving vulnerability scanning, network analysis, penetration-testing tools, and intentionally vulnerable applications.
-
 ## 👋 A Little About Me
 
-Before becoming a software engineer, I worked as an EMT on an ambulance.
+Before returning to software engineering, I worked as an EMT on an ambulance.
 
-That experience taught me how to communicate clearly, troubleshoot under pressure, work closely with a team, and stay focused when the situation is ambiguous.
+That experience strengthened my communication, decision-making, troubleshooting, and ability to work under pressure.
 
-Those skills have carried directly into engineering.
-
-I enjoy working with people, learning complex systems, writing code, and turning difficult technical problems into practical solutions.
+Those skills have carried directly into engineering and cybersecurity.
 
 ## 🎯 What I'm Interested In
 
-I'm especially interested in opportunities involving:
+**Security Engineering • Product Security • Application Security • Detection Engineering • Cloud Security • Network Security**
 
-**Backend Engineering • Platform Engineering • Cybersecurity • Distributed Systems • Go • Cloud Infrastructure • Developer Tools**
-
-I'm particularly drawn to engineering teams where developers have meaningful ownership over the systems they build.
+I'm especially interested in roles where I can combine software engineering with security and work across systems end-to-end.
