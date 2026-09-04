@@ -4,8 +4,6 @@
 
 Hi, I'm Mitchell 👋
 
-I build software, break assumptions, and like understanding how systems actually behave.
-
 I'm a security-focused software engineer with experience building and hardening enterprise networking and cybersecurity products.
 
 My work has included application security, authentication and authorization, intrusion detection, network traffic analysis, secure APIs, vulnerability remediation, CI/CD security, and cloud infrastructure.
